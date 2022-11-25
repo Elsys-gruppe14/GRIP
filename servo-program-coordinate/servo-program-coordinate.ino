@@ -1,3 +1,12 @@
+/*
+
+    DENNE KODEN ER IKKE FERDIG OG FUNGERER IKKE I SIN NÅVÆRENDE TILSTAND
+
+*/
+
+
+
+
 // PRE-PROCESSOR COMMANDS
 //////////////////////////////////////////////////////////////////////
 
